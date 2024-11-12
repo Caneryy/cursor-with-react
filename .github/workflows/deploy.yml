@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main # veya master (ana dalınızın adına göre)
+      - master # veya master (ana dalınızın adına göre)
 
 jobs:
   deploy:
